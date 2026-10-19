@@ -11,10 +11,11 @@
 ## 🔐 Cybersecurity Virtual Experiences
 
 - **PwC US — Cybersecurity Virtual Experience**
-  - [📄 View Certificate (PDF)](forage_cybersecurity_cert.pdf)
+  - [📄 View Certificate (PDF)][forage_cybersecurity_cert.pdf](https://github.com/user-attachments/files/33646276/forage_cybersecurity_cert.pdf)
+
 
 - **Deloitte Australia — Cybersecurity Virtual Experience**
-  - [📄 View Certificate (PDF)](deloitte_course_completion_certificate.pdf)
+  - [📄 View Certificate (PDF)][deloitte_course_completion_certificate.pdf](https://github.com/user-attachments/files/33646285/deloitte_course_completion_certificate.pdf)
 
 ---
 
